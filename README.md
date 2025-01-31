@@ -11,3 +11,7 @@ Welcome to the Running Conversion Calculator! This Python program helps runners 
 - VO2 Max Estimation: Calculate an estimate of your VO2 max based on your performance, gender, and body weight.
 
 ## Usage
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
