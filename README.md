@@ -10,8 +10,6 @@ Welcome to the Running Conversion Calculator! This Python program helps runners 
 - Training Pace Recommendations: Receive suggested paces for different training runs, including easy runs, tempo runs, VO2 max workouts, speed sessions, and long runs.
 - VO2 Max Estimation: Calculate an estimate of your VO2 max based on your performance, gender, and body weight.
 
-## Usage
-
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
