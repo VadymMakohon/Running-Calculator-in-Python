@@ -13,3 +13,11 @@ Welcome to the Running Conversion Calculator! This Python program helps runners 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+### ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub! Your support motivates me to create even more useful tools for runners like us. 😊
+
+## 👤Contributor
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
